@@ -17,6 +17,8 @@
   * ```image:=/argo/camera1/image_raw ```
   * calibration file: gaz_opencv.cfg
   * using the FOV calib model.
-  * SceenShot:![alt text](/home/bismaya/Pictures/Screenshot from 2016-09-13 00:25:25.png "LSD_ARGO_GAZEBO")
+  * 
+  
+	SceenShot:![alt text](https://github.com/LordBismaya/argo_description/blob/master/Screenshot.png "LSD_ARGO_GAZEBO")
 
 
